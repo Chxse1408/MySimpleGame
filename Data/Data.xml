@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Players>
+	<Player>
+		<Name>Chase</Name>
+		<Wins>0</Wins>
+		<Losses>0</Losses>
+		<Ties>0</Ties>
+	</Player>
+	<Player>
+		<Name>Corbin</Name>
+		<Wins>0</Wins>
+		<Losses>0</Losses>
+		<Ties>0</Ties>
+	</Player>
+</Players>
